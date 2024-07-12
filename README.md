@@ -1,5 +1,3 @@
-
-
 # Git-and-GitHub-Commands
 Author - HackBugs
 Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
@@ -43,8 +41,4 @@ git merge <-branch name->
 PR and git pull origin main  
 Undoing changes --which we change in code if i want to go step back then we can use  
 git reset <--file name-->  
-git reset  
-
-
-
-
+git reset 
