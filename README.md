@@ -4,8 +4,8 @@
 Author - HackBugs
 Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 
-git config --global user.name "Shahnwaj Aalam"  
-git config --global user.email "shahnwaza7@gmail.com"  
+git config --global user.name "XYZ"  
+git config --global user.email "XYZ@gmail.com"  
 git config --list  
 git clone link of github  
 git status -- if you did any change your file that will show you  
