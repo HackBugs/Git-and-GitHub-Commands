@@ -92,3 +92,6 @@ RUN npm install
 
 ENTRYPOINT [ "node", "main.js" ]
 ------------------------------------------------------------------------------------------------
+
+Container or virtual machine manager, such as: 
+Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox, or VMware Fusion/Workstation
