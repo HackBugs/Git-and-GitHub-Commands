@@ -43,9 +43,8 @@ Undoing changes --which we change in code if i want to go step back then we can 
 git reset <--file name-->  
 git reset 
 
-----------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
 Devops:
-
 
 - In devops same like a datagard mean we make replica and duplicate of production database
 same like we make replica and duplicate make make of aur environments where development working
@@ -74,4 +73,20 @@ install on one operating system
 with docker can build the container
 and of container we can make duplicate containers like local environment
 and can use of that container to build and deploy projects without environment issues
+------------------------------------------------------------------------------------------------
+FROM ubuntu
 
+RUN apt-get update
+RUN apt-get install -y curl
+RUN curl -sL https://deb.nodesource.com/setup_18.x | bash -
+RUN apt-get upgrade -y
+RUN apt-get install -y nodejs
+
+COPY package.json package.json
+COPY package-lock.json package-lock.json
+COPY main.js main.js
+
+RUN npm install
+
+ENTRYPOINT [ "node", "main.js" ]
+------------------------------------------------------------------------------------------------
