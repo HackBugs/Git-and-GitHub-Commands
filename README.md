@@ -46,6 +46,8 @@ git reset
 ------------------------------------------------------------------------------------------
 Devops:
 
+https://app.eraser.io/workspace/5bTzpbKkfb3PdcgYZ4Je
+
 - In devops same like a datagard mean we make replica and duplicate of production database
 same like we make replica and duplicate make make of aur environments where development working
 we can make a container and of that container we can mutiple replicas and can share of each new deveploper 
