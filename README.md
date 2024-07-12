@@ -2,7 +2,18 @@
 Author - HackBugs
 Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 
-% git config --global user.name "Shahnwaj Aalam"
+# Read the content of input.txt
+with open('input.txt', 'r') as file:
+    lines = file.readlines()
+
+# Add double spaces to each line
+lines = [line.rstrip() + '  ' for line in lines]
+
+# Write the content to README.md
+with open('README.md', 'w') as file:
+    file.write('\n'.join(lines))
+
+print("% git config --global user.name "Shahnwaj Aalam"
 % git config --global user.email "shahnwaza7@gmail.com"
 % git config --list
 git clone link of github
@@ -37,5 +48,8 @@ git marge <-branch name->
 PR and git pull origin main
 Undoing changes --which we change in code if i want to go step back than we can use
 get reset <--file name-->
-git reset
+git reset")
+
+
+
 
