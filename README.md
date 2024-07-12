@@ -7,17 +7,22 @@ Important cmd of GitHub it only for me I uploaded because when I feel I'm forget
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
 git config --list  
-git clone link of github  
-git status -- if you did any change your file that will show you  
-git add -- that will add in list to ready for commit  
-git add . -- if we want to add multiple files in one click  
-git commit -m -- it meant you deploy your code on github successfully  
-git push origin main < this cmd will finally push your code on github  
 
 cd ..  
 make dir  
 cd folder name  
-git init <after create new folder inside this folder run this cmd that will make hidden git repo important environment files  
+git init <- after create new folder inside this folder run this cmd that will make hidden git repo important environment files 
+
+git clone link of github  
+touch filename.text .html .css <- what ever you want write here
+
+status types <-- untracked , modified , staged , unmodified
+git status -- if you did any change your file that will show you 
+git add index.html -- this cmd use for "staged" signle file - that will add in list to ready for commit
+git add . <- if we want to add multiple files in one click
+  
+git commit -m "what your message" <-- it meant you deploy your code on github successfully  
+git push origin main < this cmd will finally push your code on github  
 
 git remote add origin <-- link-> < when create new repo on github  
 git remote -v  
