@@ -60,3 +60,7 @@ lattest viesion of androidStudio and whe i try to run that proiject code that wi
 give error and also my team would be use mac os or linux or windows when i try to set up environment can get error 
 
 thats why we use of "Docker"
+
+with docker can build the container
+and of container we can make duplicate containers
+and can use of that container to build and deploy projects without environment issues
