@@ -47,11 +47,11 @@ git reset
 Devops:
 
 
-in devops same like a datagard mean we make replica and duplicate of production database
+- In devops same like a datagard mean we make replica and duplicate of production database
 same like we make replica and duplicate make make of aur environments where development working
 we can make a container and of that container we can mutiple replicas and can share of each new deveploper 
 
-that means i want to wark on any language there have projects where more than 50 and 100 
+- That means i want to wark on any language there have projects where more than 50 and 100 
 people can or programmer working together if new 50 people join new and he want to work on that project and 
 ready to create code but before write the code he need to make environments which is required for that technology
 like if i want to set environment of android studio for development a application but when i install android studio
@@ -59,12 +59,19 @@ than my other team mate could be old virsion of android studio and when i instal
 lattest viesion of androidStudio and whe i try to run that proiject code that will be not run by androidStudio and will 
 give error and also my team would be use mac os or linux or windows when i try to set up environment can get error 
 
-thats why we use of "Docker"
+Thats why we use of "Docker"
 
-"docker image and docker container"
+"Docker image and docker container"
 docker image i same like class like class of programming is a blueprints it not occupied storage, and resources object occopied storage and resources
 like that docker "image" is like class and docker "container" object
+
+Simple real prectical example of docker container and docker image
+- Docker image means operation system it could be ubuntu or linux or mac anything only OS
+- Docker container is act like virtual mechine not exctly vitual machine bec virtual machine is occupied more storage and container 
+occupied less but is work same like virtual machine container is environment where i can install os, packeges, softwars etc which we 
+install on one operating system
 
 with docker can build the container
 and of container we can make duplicate containers like local environment
 and can use of that container to build and deploy projects without environment issues
+
