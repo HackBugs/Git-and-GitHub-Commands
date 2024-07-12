@@ -34,4 +34,7 @@ git push origin <- branch name -> --name of the branch name where you want to pu
 git diff main
 git marge <-branch name->
 
-PR and git pull origin main 
+PR and git pull origin main
+Undoing changes --which we change in code if i want to go step back than we can use
+get reset <--file name-->
+git reset
