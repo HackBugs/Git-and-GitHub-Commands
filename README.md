@@ -20,6 +20,7 @@ git add index.html -- this cmd use for "staged" signle file - that will add in l
 git add . <- if we want to add multiple files in one click
   
 git commit -m "what your message" <-- it meant you deploy your code on github successfully 
+git remote -v
 git remote add origin https://github.com/HackBugs/PHP-code-form-wirh-SQL.git
 git push origin main < this cmd will finally push your code on github  
 
