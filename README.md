@@ -21,7 +21,8 @@ git status -- if you did any change your file that will show you
 git add index.html -- this cmd use for "staged" signle file - that will add in list to ready for commit
 git add . <- if we want to add multiple files in one click
   
-git commit -m "what your message" <-- it meant you deploy your code on github successfully  
+git commit -m "what your message" <-- it meant you deploy your code on github successfully 
+git remote add origin https://github.com/HackBugs/PHP-code-form-wirh-SQL.git
 git push origin main < this cmd will finally push your code on github  
 
 git remote add origin <-- link-> < when create new repo on github  
