@@ -42,3 +42,8 @@ PR and git pull origin main
 Undoing changes --which we change in code if i want to go step back then we can use  
 git reset <--file name-->  
 git reset 
+
+----------------------------------------------------------------------------------------
+Devops:
+
+
