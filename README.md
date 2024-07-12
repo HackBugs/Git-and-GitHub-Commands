@@ -61,6 +61,10 @@ give error and also my team would be use mac os or linux or windows when i try t
 
 thats why we use of "Docker"
 
+"docker image and docker container"
+docker image i same like class like class of programming is a blueprints it not occupied storage, and resources object occopied storage and resources
+like that docker "image" is like class and docker "container" object
+
 with docker can build the container
-and of container we can make duplicate containers
+and of container we can make duplicate containers like local environment
 and can use of that container to build and deploy projects without environment issues
