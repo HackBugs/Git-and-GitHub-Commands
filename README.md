@@ -2,6 +2,8 @@
 Author - HackBugs
 Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 
+version control systems and tools
+
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
 git config --list  
@@ -52,19 +54,12 @@ https://app.eraser.io/workspace/5bTzpbKkfb3PdcgYZ4Je
 same like we make replica and duplicate make make of aur environments where development working
 we can make a container and of that container we can mutiple replicas and can share of each new deveploper 
 
-- That means i want to wark on any language there have projects where more than 50 and 100 
-people can or programmer working together if new 50 people join new and he want to work on that project and 
-ready to create code but before write the code he need to make environments which is required for that technology
-like if i want to set environment of android studio for development a application but when i install android studio
-than my other team mate could be old virsion of android studio and when i install androidStudio then could be installed
-lattest viesion of androidStudio and whe i try to run that proiject code that will be not run by androidStudio and will 
-give error and also my team would be use mac os or linux or windows when i try to set up environment can get error 
+- That means I want to work on a project where more than 50 or 100 programmers are working together. If 50 new people join the company, they will want to work on that project and start creating code. However, before writing code, they need to set up the required environment for that technology. For example, if I need to set up Android Studio for developing an application, the issue could arise if my teammates are using an older version of Android Studio. When I install Android Studio, it might be the latest version, and trying to run the project code could result in errors due to version differences. Additionally, my team might be using different operating systems like macOS, Linux, or Windows, which can also lead to environment setup errors.
 
 Thats why we use of "Docker"
 
 "Docker image and docker container"
-docker image i same like class like class of programming is a blueprints it not occupied storage, and resources object occopied storage and resources
-like that docker "image" is like class and docker "container" object
+Docker "image" is like class and docker "container" like object
 
 Simple real prectical example of docker container and docker image
 - Docker image means operation system it could be ubuntu or linux or mac anything only OS
