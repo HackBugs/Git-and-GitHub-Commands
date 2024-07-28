@@ -6,6 +6,7 @@ version control systems and tools
 
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
+git config --global --list
 git config --list  
 
 cd ..  
