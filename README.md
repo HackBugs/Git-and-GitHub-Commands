@@ -3,6 +3,7 @@ Author - HackBugs
 Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 
 version control systems and tools
+CMD - git pull - git marge + git fetch
 
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
