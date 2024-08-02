@@ -5,12 +5,27 @@
 ### version control systems and tools
 - `git pull` combination of `git merge` and `git fetch`
 - CMD - `git pull` - `git merge` + `git fetch`
-- with git marge also can marge tow branch
+
+- if you to pull from branch use this cmd - git pull origin main
+
+### with git marge also can marge tow branch
 ```sh
 git checkout main
 git merge feature-branch
 ```
+### About branches
+- `git branch` - check corrent branch
 
+- `git checkout -b feature-branch` - Create a New Branch
+- `git branch feature-branch` - Create a New Branch
+
+- `git checkout feature-branch` - New Branch Pe Switch Karna
+- `git switch branch-name` - Switch to an Existing Branch
+
+- `git switch -c new-branch-name` - create new branch and switch 
+
+
+### Login Git to local repo 
 ```sh
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
