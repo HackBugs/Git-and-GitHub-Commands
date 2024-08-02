@@ -6,6 +6,16 @@
 - `Git pull` is combination of `git merge` and `git fetch`
 -  CMD - `git pull` - `git marge` + `git fetch`
 
+### if you want to chagne and create Braches 
+- git branch 
+- git branch branch-name - Create branch
+- git checkout branch-name - switch new branch
+- git switch branch-name - switch one branch to other branch
+- git checkout -b feature-branch - Create and Switch to New Branch:
+- git stash list
+- git stash apply
+
+
 ```sh
 git config --global user.name "XYZ"  
 git config --global user.email "XYZ@gmail.com"  
