@@ -1,20 +1,15 @@
 # Git-and-GitHub-Commands
 ### ✍️ Author - HackBugs
-
 ### Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
+
 ### version control systems and tools
-- `Git pull` is combination of `git merge` and `git fetch`
--  CMD - `git pull` - `git marge` + `git fetch`
-
-### if you want to chagne and create Braches 
-- git branch 
-- git branch branch-name - Create branch
-- git checkout branch-name - switch new branch
-- git switch branch-name - switch one branch to other branch
-- git checkout -b feature-branch - Create and Switch to New Branch:
-- git stash list
-- git stash apply
-
+- `git pull` combination of `git merge` and `git fetch`
+- CMD - `git pull` - `git merge` + `git fetch`
+- with git marge also can marge tow branch
+```sh
+git checkout main
+git merge feature-branch
+```
 
 ```sh
 git config --global user.name "XYZ"  
@@ -56,7 +51,7 @@ git config --list
 - git diff main  
 - git merge <-branch name->
 - PR and git pull origin main  
-Undoing changes --which we change in code if i want to go step back then we can use  
+  Undoing changes --which we change in code if i want to go step back then we can use  
 - git reset <--file name-->  
 - git reset 
 ------------------------------------------------------------------------------------------
