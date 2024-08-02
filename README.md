@@ -4,6 +4,11 @@
 ### Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 ### version control systems and tools
 - CMD - git pull - git marge + git fetch
+- with git marge also can marge tow branch
+```sh
+git checkout main
+git merge feature-branch
+```
 
 ```sh
 git config --global user.name "XYZ"  
