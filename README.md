@@ -3,6 +3,7 @@
 ### Important cmd of GitHub it only for me I uploaded because when I feel I'm forgetting cmd than i can re-call from here
 
 - New change
+- change 2
 
 ### version control systems and tools
 - `git pull` combination of `git merge` and `git fetch`
