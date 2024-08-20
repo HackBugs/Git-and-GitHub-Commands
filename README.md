@@ -4,7 +4,7 @@
 
 ### version control systems and tools
 - `git pull` combination of `git merge` and `git fetch`
-- CMD - `git pull` - `git merge` + `git fetch`
+- CMD - `git pull` = `git merge` + `git fetch`
 
 - if you to pull from branch use this cmd - git pull origin main
 
