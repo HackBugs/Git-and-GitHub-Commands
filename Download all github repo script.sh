@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace with your GitHub Personal Access Token (PAT)
-token="ghp_ioPb9rQGe## Paste here you token ##XACF9Msu47dhK7"
+token="ghp_ioPb9rQGe## Paste here your token ##XACF9Msu47dhK7"
 
 # List of repositories to clone
 repositories=(
