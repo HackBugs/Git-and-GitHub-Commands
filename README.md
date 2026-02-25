@@ -2,6 +2,13 @@
 git add .
 git commit -m "updated login page"
 git push origin main
+
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/USERNAME/REPO_NAME.git
+git push -u origin main
 ```
 
 # Git-and-GitHub-Commands
