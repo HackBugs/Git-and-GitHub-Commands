@@ -1,3 +1,9 @@
+```
+git add .
+git commit -m "updated login page"
+git push origin main
+```
+
 # Git-and-GitHub-Commands
 ### ✍️ Author - HackBugs
 
