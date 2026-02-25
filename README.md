@@ -9,6 +9,11 @@ git commit -m "Initial commit"
 git branch -M main
 git remote add origin https://github.com/USERNAME/REPO_NAME.git
 git push -u origin main
+
+rename folder - git mv old-folder-name new-folder-name
+git add .
+git commit -m "updated login page"
+git push origin main
 ```
 
 # Git-and-GitHub-Commands
